@@ -37,6 +37,6 @@ public class Bog {
 
     @Override
     public String toString(){
-
+        return "Titel: " + titel + "\nUdgivelsesår: " + udgivelsesår + "\nISBN: " + ISBN + "\n";
     }
 }
